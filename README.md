@@ -40,6 +40,6 @@ won't be participating, let us know.
 
 ## Sponsors
 
-This is nicely sponsored by NlNet.
+This is nicely sponsored by [NLnet](https://nlnet.nl/).
 
 You can be another sponsor if you like! ;)
