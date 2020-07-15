@@ -7,6 +7,11 @@ made last year. It is a summit where people from different places
 (academia, industry, open source implementation, and legal perspectives) talk
 about the latest problems and advancements on the secure messaging sphere.
 
+This form takes inspiration from the [pl-hci-school-2020](https://shriram.github.io/pl-hci-school-2020/)
+organized by Sarah Chasins, Elena Glassman, Shriram Krishnamurthi and Hila Peleg,
+and by the [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/index.html)
+organized by Steven Galbraith.
+
 ## Format
 
 The event will be entirely virtual.
@@ -27,6 +32,12 @@ them. If this goes well, hopefully we'll have more of them in the future!
 
 We have no idea how much demand there will be. We will provide a registration
 form starting from August.
+
+Registration is free; but you must read and accept our Code of Conduct.
+
+We require that every participant represent themselves by the name that they
+use for their professional work. No participant can impersonate another person
+or use a pseudonym.
 
 ### Before you register
 
