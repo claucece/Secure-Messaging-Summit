@@ -9,10 +9,9 @@ the summit and possibly future banning from future events.
 
 Since we are running an online summit, we require that every participant
 represent themselves by the name that they use for their professional work. No
-participant can impersonate another person or conceal themself behind a
-pseudonym. In addition, any speech or imagery that are posted in the chats or
-during any of the various activities must be appropriate and in comply with
-the noted policy.
+participant can impersonate another person. In addition, any speech or imagery
+that are posted in the chats or during any of the various activities must be
+appropriate and in comply with the noted policy.
 
 If you believe there has been a violation of these policies, or have any
 concerns relating to conduct of participants at the event, we encourage you to
