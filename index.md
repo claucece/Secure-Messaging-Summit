@@ -201,7 +201,7 @@ There are two ways of registering:
    * The typed statement: 'I confirm that I have read and agree to abide by the
      code of conduct of the event' \*.
    * The typed statement: 'I confirm that I understand the SNAPL Friendly
-     Environment Policy to be used at the even' \*.
+     Environment Policy to be used at the event' \*.
 
 You can send encrypted emails for registration and subsequent communications by
 using PGP. The public key of `securemessaging2020@riseup.net` can be found
