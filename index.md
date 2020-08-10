@@ -156,7 +156,9 @@ them. If this goes well, hopefully we'll have more of them in the future!
 
 The talks and panel might be recorded prior consent from the speakers.
 
-# How to Register
+# Registration
+
+## How to Register
 
 We have no idea how much demand there will be. We will provide a registration
 form starting from August.
