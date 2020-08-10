@@ -149,6 +149,7 @@ Expect the missing abstracts for those talks to be published soon.
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
 * [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
 * [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
+* [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from ARTICLE19
 
 Expect the topics to be talked on the panel to be published soon. But, they will
 manly explore the challenges, threats and advantages that secure messaging
