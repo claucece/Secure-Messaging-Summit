@@ -59,7 +59,7 @@ The list of confirmed speakers for the 3rd are:
 
   **What user studies tell us about secure messaging?**
 
-  Are people concerned about mass surveillance? How do users perceive end-to-end
+  *Are people concerned about mass surveillance? How do users perceive end-to-end
   encryption and people who use it? Did the Snowden revelations alter user
   perceptions of encryption? What security properties are important to users?
   What security properties do they erroneously expect? How do these concerns
@@ -77,9 +77,43 @@ The list of confirmed speakers for the 3rd are:
   studies in the academic literature with respect to questions about the
   usability and deployability of secure messaging technology. These results do
   not tell the whole story, but they do provide useful insights for protocol
-  designers and software developers.
+  designers and software developers.*
 
-* Paul Rösler from the Ruhr University Bochum
+* [Paul Rösler](http://roeslpa.de/), from the Ruhr University Bochum, with
+  the talk:
+
+  **Resolving Concurrency in Group Ratcheting Protocols**
+
+  *Post-Compromise Security, or PCS, refers to the ability of a given protocol
+  to recover—by means of normal protocol operations—from the exposure of local
+  states of its (otherwise honest) participants. Reaching PCS in group messaging
+  protocols so far either bases on `n` parallel two-party messaging protocol
+  executions between all pairs of group members in a group of `n` users (like in
+  the Signal client), or on tree based group ratcheting protocols (e.g.,
+  developed in the context of the IETF Message Layer Security initiative). Both
+  approaches have great restrictions: parallel pairwise executions induce for
+  each state update a communication overhead of `O(n)`. While tree based
+  protocols reduce this overhead to `O(log n)`, they cannot handle concurrent
+  state updates. For resolving such inevitably occurring concurrent updates,
+  these protocols delay reaching PCS up to `n` communication time slots
+  (potentially more in asynchronous settings such as messaging). Furthermore,
+  a consensus mechanism (such as a central server) is needed in practice.
+
+  In this talk, based on a joint work with Alexander Bienstock and Yevgeniy
+  Dodis, the speaker will discuss the trade-off between PCS, concurrency, and
+  communication overhead in the context of group ratcheting. In particular, he
+  will explain why state updates, concurrently initiated by `t` group members
+  for reaching PCS immediately induce a communication overhead of `Ω(t)` per
+  message. He will show a new group ratcheting construction that resolves the
+  aforementioned restriction of concurrency but reaches a communication overhead
+  of only `O(t * log(n/t))`, which smoothly increases from `O(log n)` with no
+  concurrency to `O(n)` with unbounded concurrency. Thus, we present a protocol
+  in which each group member can (nearly) immediately recover from exposures
+  independent of concurrency in the group with almost minimal communication
+  overhead. We believe that this result is of interest for the IETF Message
+  Layer Security (MLS) standardization effort; but more general and more
+  importantly for distributed messaging environments where concurrency is
+  unavoidable.*
 
 * Daniel Kales from the Technical University of Graz
 
