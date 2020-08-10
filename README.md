@@ -120,7 +120,19 @@ The list of confirmed speakers for the 3rd are:
   importantly for distributed messaging environments where concurrency is
   unavoidable.*
 
-* Daniel Kales from the Technical University of Graz
+* Daniel Kales, from the Technical University of Graz, with the talk:
+
+  **Mobile Private Contact Discovery**
+
+  *Mobile Contact Discovery is a process executed by messaging applications to
+  find contacts from a user's local address book that are also using the
+  messaging service. Naive solutions can pose problems for the privacy of the
+  user's contacts, especially, those not actually using the messaging service
+  themselves. This talk will cover the basics of Mobile Contact Discovery and
+  explore different variants of a cryptographic solution (Private Set
+  Intersection) to this problem.  We discuss some of the problems (performance-related
+  and others) of using such protocols as a solution for Mobile Contact Discovery,
+  in large-scale messaging services with potentially hundreds of millions of users.*
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
