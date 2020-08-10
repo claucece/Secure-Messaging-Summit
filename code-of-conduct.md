@@ -16,5 +16,5 @@ appropriate and in comply with the noted policy.
 If you believe there has been a violation of these policies, or have any
 concerns relating to conduct of participants at the event, we encourage you to
 contact Sofía Celi at cherenkov@riseup.net, or the designated support people
-Jurre van Bergen. You can do this by sending an email to securemessaging2020conduct@gmail.com
-and it will be forwarded to all the support people.
+Jurre van Bergen. You can do this by sending an email to securemessaging2020@riseup.net
+(it can be encrypted) and it will be forwarded to all the support people.
