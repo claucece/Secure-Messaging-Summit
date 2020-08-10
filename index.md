@@ -205,7 +205,8 @@ There are two ways of registering:
 
 You can send encrypted emails for registration and subsequent communications by
 using PGP. The public key of `securemessaging2020@riseup.net` can be found
-[here]. The fingerprint is: `8D6F D710 7F9A 2EC7 9634  4A8D C83B FA0F BDDA 279F`.
+[here](https://github.com/claucece/Secure-Messaging-Summit/blob/master/SecureMessaging2020%20(BDDA279F)%20%E2%80%93%20Public.asc).
+The fingerprint is: `8D6F D710 7F9A 2EC7 9634  4A8D C83B FA0F BDDA 279F`.
 If you send encrypted emails, first please either send your public key or
 upload it in a server where it can be publicly found.
 
