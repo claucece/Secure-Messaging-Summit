@@ -1,6 +1,4 @@
-# Secure Messaging Summit
-
-Welcome to the Secure Messaging Summit!
+# Welcome to the Secure Messaging Summit!
 
 
 Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master)!
@@ -15,7 +13,7 @@ organized by Sarah Chasins, Elena Glassman, Shriram Krishnamurthi and Hila Peleg
 and by the [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/index.html)
 organized by Steven Galbraith.
 
-## Format
+# Information
 
 The event will be entirely virtual.
 
@@ -158,7 +156,7 @@ them. If this goes well, hopefully we'll have more of them in the future!
 
 The talks and panel might be recorded prior consent from the speakers.
 
-## How to Register
+# How to Register
 
 We have no idea how much demand there will be. We will provide a registration
 form starting from August.
@@ -172,11 +170,6 @@ We require that every participant represent themselves by the name that they
 use for their professional work (this can be a pseudonym that they generally
 use for their professional work). No participant can impersonate another person.
 
-### Registration form
-
-To be provided on the 10th of August at 7:00 UTC-5. It will close on the 30 of
-August at 23:00 UTC-5.
-
 ### Before you register
 
 On the Internet, signing up is cheap. Showing up is hard. Check your calendar
@@ -186,6 +179,13 @@ calendar.
 
 Nevertheless, we understand that things can change. If you have signed up but
 won't be participating, let us know.
+
+### Registration form
+
+To be provided on the 10th of August at 7:00 UTC-5. It will close on the 30 of
+August at 23:00 UTC-5.
+
+# Format
 
 ## What we will use
 
