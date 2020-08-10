@@ -3,17 +3,17 @@
 Welcome to the Secure Messaging Summit!
 
 
+Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master)!
+
 This is a summit inspired by the [OTRv4 summit](https://petsymposium.org/2019/program.php)
-made last year. It is a summit where people from different places
-(academia, industry, open source implementation, and legal perspectives) talk
+held last year. It is a summit where people from different places
+(academia, industry, open source implementations, and legal perspectives) talk
 about the latest problems and advancements on the secure messaging sphere.
 
 This form takes inspiration from the [pl-hci-school-2020](https://shriram.github.io/pl-hci-school-2020/)
 organized by Sarah Chasins, Elena Glassman, Shriram Krishnamurthi and Hila Peleg,
 and by the [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/index.html)
 organized by Steven Galbraith.
-
-
 
 ## Format
 
@@ -38,6 +38,7 @@ The schedule will be:
 | 3rd                             | 4th                                        |
 |---------------------------------|--------------------------------------------|
 | Talks from different speakers   | Panel around the legal/political aspects   |
+| Socializing time                | Socializing time                          |
 
 ## Speakers
 
@@ -140,7 +141,7 @@ The schedule will be:
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
-Expect the missing abstracts for these talks to be published soon.
+Expect the missing abstracts for those talks to be published soon.
 
 **The list of confirmed participants on the panel for the 4th are:**
 
@@ -149,7 +150,7 @@ Expect the missing abstracts for these talks to be published soon.
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
 
-Expect the topics to be talk on the panel to be published soon.
+Expect the topics to be talked on the panel to be published soon.
 
 
 There are many great people in this area, and we're sorry we can't invite all of
