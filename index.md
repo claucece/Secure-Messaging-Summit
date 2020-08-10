@@ -185,6 +185,30 @@ won't be participating, let us know.
 To be provided on the 10th of August at 7:00 UTC-5. It will close on the 30 of
 August at 23:00 UTC-5.
 
+Note that you have to provide a valid email address at registration, as subsequent
+communications regarding the event will be sent to that address.
+
+There are two ways of registering:
+
+1. By using the google form
+2. By sending an email to `securemessaging2020@riseup.net`, with the
+   following information (`*` means mandatory):
+   * Last Name\*,
+   * First Name\*,
+   * email address \*,
+   * affiliation/institution\*,
+   * In which time zone will you be during the summit (UTC),
+   * The typed statement: 'I confirm that I have read and agree to abide by the
+     code of conduct of the event' \*.
+   * The typed statement: 'I confirm that I understand the SNAPL Friendly
+     Environment Policy to be used at the even' \*.
+
+You can send encrypted emails for registration and subsequent communications by
+using PGP. The public key of `securemessaging2020@riseup.net` can be found
+[here]. The fingerprint is: `8D6F D710 7F9A 2EC7 9634  4A8D C83B FA0F BDDA 279F`.
+If you send encrypted emails, first please either send your public key or
+upload it in a server where it can be publicly found.
+
 # Format
 
 ## What we will use
