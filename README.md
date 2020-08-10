@@ -53,7 +53,12 @@ The list of confirmed speakers for the 3rd are:
   Signal.*
 
 * Thomas Ristenpart from Cornell Tech
+
+  Abstract to be published soon.
+
 * Raphael Robert from Wire
+
+  Abstract to be published soon.
 
 * Nikolas Unger, from the University of Waterloo, with the talk:
 
