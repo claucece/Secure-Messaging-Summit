@@ -2,6 +2,7 @@
 
 Welcome to the Secure Messaging Summit!
 
+
 This is a summit inspired by the [OTRv4 summit](https://petsymposium.org/2019/program.php)
 made last year. It is a summit where people from different places
 (academia, industry, open source implementation, and legal perspectives) talk
@@ -11,6 +12,8 @@ This form takes inspiration from the [pl-hci-school-2020](https://shriram.github
 organized by Sarah Chasins, Elena Glassman, Shriram Krishnamurthi and Hila Peleg,
 and by the [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/index.html)
 organized by Steven Galbraith.
+
+
 
 ## Format
 
