@@ -38,7 +38,7 @@ The schedule will be:
 
 ## Speakers
 
-The list of confirmed speakers for the 3rd are:
+**The list of confirmed speakers for the 3rd are:**
 
 * [Rosario Gennaro](https://www-cs.ccny.cuny.edu/~rosario/), from the City College of New York, with the talk:
 
@@ -137,14 +137,17 @@ The list of confirmed speakers for the 3rd are:
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
-Expect the abstracts for these talks to be published soon.
+Expect the missing abstracts for these talks to be published soon.
 
-The list of confirmed participants on the panel for the 4th are:
+**The list of confirmed participants on the panel for the 4th are:**
 
 * Moderator: Iraklis Symeonidis from the University of Luxembourg
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
+
+Expect the topics to be talk on the panel to be published soon.
+
 
 There are many great people in this area, and we're sorry we can't invite all of
 them. If this goes well, hopefully we'll have more of them in the future!
