@@ -2,6 +2,9 @@
 
 Welcome to the Secure Messaging Summit!
 
+
+Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master)!
+
 This is a summit inspired by the [OTRv4 summit](https://petsymposium.org/2019/program.php)
 held last year. It is a summit where people from different places
 (academia, industry, open source implementations, and legal perspectives) talk
