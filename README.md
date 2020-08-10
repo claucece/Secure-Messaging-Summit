@@ -70,9 +70,9 @@ The list of confirmed speakers for the 3rd are:
   perceive SMS and landline calls? What happened to PGP? Is adoption of secure
   messaging limited by poor usability? How should we design trust establishment
   ceremonies? Are trust establishment ceremonies even important? Are the
-  values of users and developers aligned?
+  values of users and developers aligned?*
 
-  In the past 25 years, user studies have investigated the answers to these
+  *In the past 25 years, user studies have investigated the answers to these
   questions and more. This talk surveys the most notable results from user
   studies in the academic literature with respect to questions about the
   usability and deployability of secure messaging technology. These results do
@@ -97,9 +97,9 @@ The list of confirmed speakers for the 3rd are:
   state updates. For resolving such inevitably occurring concurrent updates,
   these protocols delay reaching PCS up to `n` communication time slots
   (potentially more in asynchronous settings such as messaging). Furthermore,
-  a consensus mechanism (such as a central server) is needed in practice.
+  a consensus mechanism (such as a central server) is needed in practice.*
 
-  In this talk, based on a joint work with Alexander Bienstock and Yevgeniy
+  *In this talk, based on a joint work with Alexander Bienstock and Yevgeniy
   Dodis, the speaker will discuss the trade-off between PCS, concurrency, and
   communication overhead in the context of group ratcheting. In particular, he
   will explain why state updates, concurrently initiated by `t` group members
