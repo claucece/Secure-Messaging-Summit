@@ -147,8 +147,13 @@ Expect the missing abstracts for those talks to be published soon.
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
+* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
+* [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
 
-Expect the topics to be talked on the panel to be published soon.
+Expect the topics to be talked on the panel to be published soon. But, they will
+manly explore the challenges, threats and advantages that secure messaging
+faces on different regions of the world from a legal, political and even
+sociological perspective.
 
 
 There are many great people in this area, and we're sorry we can't invite all of
@@ -156,7 +161,9 @@ them. If this goes well, hopefully we'll have more of them in the future!
 
 The talks and panel might be recorded prior consent from the speakers.
 
-# How to Register
+# Registration
+
+## How to Register
 
 We have no idea how much demand there will be. We will provide a registration
 form starting from August.
@@ -190,7 +197,7 @@ communications regarding the event will be sent to that address.
 
 There are two ways of registering:
 
-1. By using the google form
+1. By using the [google form](https://docs.google.com/forms/d/e/1FAIpQLSf1Knazuv88jaoZW1HAvK9XpHHMHh4YS2UlYsWSZoqAjKdHQw/viewform?usp=sf_link)
 2. By sending an email to `securemessaging2020@riseup.net`, with the
    following information (`*` means mandatory):
    * Last Name\*,
@@ -205,7 +212,8 @@ There are two ways of registering:
 
 You can send encrypted emails for registration and subsequent communications by
 using PGP. The public key of `securemessaging2020@riseup.net` can be found
-[here]. The fingerprint is: `8D6F D710 7F9A 2EC7 9634  4A8D C83B FA0F BDDA 279F`.
+[here](https://github.com/claucece/Secure-Messaging-Summit/blob/master/SecureMessaging2020%20(BDDA279F)%20%E2%80%93%20Public.asc).
+The fingerprint is: `8D6F D710 7F9A 2EC7 9634  4A8D C83B FA0F BDDA 279F`.
 If you send encrypted emails, first please either send your public key or
 upload it in a server where it can be publicly found.
 
