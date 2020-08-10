@@ -147,6 +147,8 @@ Expect the missing abstracts for those talks to be published soon.
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
+* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
+* [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
 
 Expect the topics to be talked on the panel to be published soon. But, they will
 manly explore the challenges, threats and advantages that secure messaging
@@ -195,7 +197,7 @@ communications regarding the event will be sent to that address.
 
 There are two ways of registering:
 
-1. By using the google form
+1. By using the [google form](https://docs.google.com/forms/d/e/1FAIpQLSf1Knazuv88jaoZW1HAvK9XpHHMHh4YS2UlYsWSZoqAjKdHQw/viewform?usp=sf_link)
 2. By sending an email to `securemessaging2020@riseup.net`, with the
    following information (`*` means mandatory):
    * Last Name\*,
