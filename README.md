@@ -142,8 +142,9 @@ Expect the abstracts for these talks to be published soon.
 The list of confirmed participants on the panel for the 4th are:
 
 * Moderator: Iraklis Symeonidis from the University of Luxembourg
-* Danny O'Brien from EFF
-* Erica Portnoy from EFF
+* [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
+* [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
+* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
 
 There are many great people in this area, and we're sorry we can't invite all of
 them. If this goes well, hopefully we'll have more of them in the future!
