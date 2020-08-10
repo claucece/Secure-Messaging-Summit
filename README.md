@@ -52,14 +52,6 @@ The list of confirmed speakers for the 3rd are:
   that analyzes the deniability of widely used messaging protocols, such as
   Signal.*
 
-* Thomas Ristenpart from Cornell Tech
-
-  Abstract to be published soon.
-
-* Raphael Robert from Wire
-
-  Abstract to be published soon.
-
 * Nikolas Unger, from the University of Waterloo, with the talk:
 
   **What user studies tell us about secure messaging?**
@@ -133,6 +125,14 @@ The list of confirmed speakers for the 3rd are:
   Intersection) to this problem.  We discuss some of the problems (performance-related
   and others) of using such protocols as a solution for Mobile Contact Discovery,
   in large-scale messaging services with potentially hundreds of millions of users.*
+
+* Thomas Ristenpart from Cornell Tech
+
+  Abstract to be published soon.
+
+* Raphael Robert from Wire
+
+  Abstract to be published soon.
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
