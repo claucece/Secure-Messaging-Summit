@@ -41,6 +41,7 @@ The schedule will be:
 The list of confirmed speakers for the 3rd are:
 
 * Rosario Gennaro from the City College of New York, with the talk:
+
   **The Simulation Paradigm and Deniable Communications**
 
   In this talk, Gennaro will survey the area of Deniable Communication and the
