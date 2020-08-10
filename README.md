@@ -112,7 +112,8 @@ The list of confirmed speakers for the 3rd are:
   importantly for distributed messaging environments where concurrency is
   unavoidable.*
 
-* Daniel Kales, from the Technical University of Graz, with the talk:
+* [Daniel Kales](https://www.iaik.tugraz.at/person/daniel-kales/), from the
+  Technical University of Graz, with the talk:
 
   **Mobile Private Contact Discovery**
 
@@ -126,7 +127,7 @@ The list of confirmed speakers for the 3rd are:
   and others) of using such protocols as a solution for Mobile Contact Discovery,
   in large-scale messaging services with potentially hundreds of millions of users.*
 
-* Thomas Ristenpart from Cornell Tech
+* [Thomas Ristenpart](https://rist.tech.cornell.edu/) from Cornell Tech
 
   Abstract to be published soon.
 
