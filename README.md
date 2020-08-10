@@ -40,7 +40,7 @@ The schedule will be:
 
 The list of confirmed speakers for the 3rd are:
 
-* Rosario Gennaro from the City College of New York, with the talk:
+* [Rosario Gennaro](https://www-cs.ccny.cuny.edu/~rosario/), from the City College of New York, with the talk:
 
   **The Simulation Paradigm and Deniable Communications**
 
@@ -54,8 +54,33 @@ The list of confirmed speakers for the 3rd are:
 
 * Thomas Ristenpart from Cornell Tech
 * Raphael Robert from Wire
-* Nikolas Unger from the University of Waterloo
+
+* Nikolas Unger, from the University of Waterloo, with the talk:
+
+  **What user studies tell us about secure messaging?**
+
+  Are people concerned about mass surveillance? How do users perceive end-to-end
+  encryption and people who use it? Did the Snowden revelations alter user
+  perceptions of encryption? What security properties are important to users?
+  What security properties do they erroneously expect? How do these concerns
+  vary among sub-populations? Should we show ciphertext to users? What threat
+  actors are users concerned about? How do we visually communicate security?
+  What metaphors should we use for security and privacy? Does secure messaging
+  make messaging secure? Why is everyone using Zoom and Telegram? How do people
+  perceive SMS and landline calls? What happened to PGP? Is adoption of secure
+  messaging limited by poor usability? How should we design trust establishment
+  ceremonies? Are trust establishment ceremonies even important? Are the
+  values of users and developers aligned?
+
+  In the past 25 years, user studies have investigated the answers to these
+  questions and more. This talk surveys the most notable results from user
+  studies in the academic literature with respect to questions about the
+  usability and deployability of secure messaging technology. These results do
+  not tell the whole story, but they do provide useful insights for protocol
+  designers and software developers.
+
 * Paul Rösler from the Ruhr University Bochum
+
 * Daniel Kales from the Technical University of Graz
 
 The topics that they will present vary from deniability, message franking,
