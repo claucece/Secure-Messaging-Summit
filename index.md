@@ -148,7 +148,10 @@ Expect the missing abstracts for those talks to be published soon.
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
 
-Expect the topics to be talked on the panel to be published soon.
+Expect the topics to be talked on the panel to be published soon. But, they will
+manly explore the challenges, threats and advantages that secure messaging
+faces on different regions of the world from a legal, political and even
+sociological perspective.
 
 
 There are many great people in this area, and we're sorry we can't invite all of
