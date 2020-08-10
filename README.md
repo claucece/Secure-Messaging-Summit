@@ -44,13 +44,13 @@ The list of confirmed speakers for the 3rd are:
 
   **The Simulation Paradigm and Deniable Communications**
 
-  In this talk, Gennaro will survey the area of Deniable Communication and the
+  *In this talk, Gennaro will survey the area of Deniable Communication and the
   use of the Simulation Paradigm to define and prove what deniability is. He will
   discuss the fundamental differences between zero-knowledge and deniability
   simulations, and then focus on the specific application of deniable
   authentication and key-exchange. He will conclude by presenting recent work
   that analyzes the deniability of widely used messaging protocols, such as
-  Signal.
+  Signal.*
 
 * Thomas Ristenpart from Cornell Tech
 * Raphael Robert from Wire
