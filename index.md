@@ -146,7 +146,7 @@ Expect the missing abstracts for those talks to be published soon.
 * Moderator: Iraklis Symeonidis from the University of Luxembourg
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
-* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Freedom
+* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Frontline
 * [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
 * [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
 * [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from ARTICLE19
