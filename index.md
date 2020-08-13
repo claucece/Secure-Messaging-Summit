@@ -133,9 +133,23 @@ The schedule will be:
 
   Abstract to be published soon.
 
-* Raphael Robert from Wire
+* [Raphael Robert](https://twitter.com/raphaelrobert) from Wire
 
-  Abstract to be published soon.
+  **Messaging Layer Security (MLS)**
+
+  *[MLS](https://messaginglayersecurity.rocks) is a security layer for
+  encrypting messages in groups of size two to many. It is being built by the
+  IETF MLS working group and designed to be efficient, practical and secure.*
+
+  *This talk will give a short introduction to the subject and highlight the following subjects:*
+
+
+   - *Security properties of secure messaging protocols (and their history)*
+   - *Functional requirements for secure messaging*
+   - *Efficiency considerations for large groups*
+   - *Metadata protection*
+   - *Federation*
+   - *Current status of the project*
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
