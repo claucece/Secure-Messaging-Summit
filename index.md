@@ -105,7 +105,7 @@ The schedule will be:
   for reaching PCS immediately induce a communication overhead of `Ω(t)` per
   message. He will show a new group ratcheting construction that resolves the
   aforementioned restriction of concurrency but reaches a communication overhead
-  of only `O(t * log(n/t))`, which smoothly increases from `O(log n)` with no
+  of only `O(t + t\*log(n/t))`, which smoothly increases from `O(log n)` with no
   concurrency to `O(n)` with unbounded concurrency. Thus, we present a protocol
   in which each group member can (nearly) immediately recover from exposures
   independent of concurrency in the group with almost minimal communication
