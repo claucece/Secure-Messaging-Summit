@@ -131,14 +131,31 @@ The schedule will be:
 
 * [Thomas Ristenpart](https://rist.tech.cornell.edu/) from Cornell Tech
 
-  Abstract to be published soon.
+  **How to Avoid Invisible Salamanders:  Cryptographic Tools for Moderation in
+  Encrypted Messaging**
+
+  *Encrypted messaging provides strong confidentiality guarantees for user
+  communications by ensuring that even service providers learn nothing about
+  message contents. But this end-to-end guarantee complicates service providers'
+  goal of mitigating abuse, such as harassment of one user by another.  In this
+  talk, he will describe their work on understanding what cryptographic tools we
+  need to enable secure, effective reporting of abusive content by users of
+  encrypted messaging services.  He will cover: Facebook's message franking
+  approach and vulnerabilities they discovered in it; new requirements for, and
+  designs of, symmetric encryption to support applications like message
+  franking; asymmetric message franking to allow user-driven abuse reporting
+  when messaging is anonymous; and message traceback to identify the source of
+  forwarded abusive messages.*
+
+  *This talk will cover joint work with Yevgeniy Dodis, Paul Grubbs, Julia Len,
+  Jiahui Lu, Ian Miers, Nirvan Tyagi, and Joanne Woodage.*
 
 * [Raphael Robert](https://twitter.com/raphaelrobert) from Wire
 
   **Messaging Layer Security (MLS)**
 
   *[MLS](https://messaginglayersecurity.rocks) is a security layer for encrypting messages in groups of size two to many. It is being built by the IETF MLS working group and designed to be efficient, practical and secure.*
-  
+
   *This talk will give a short introduction to the subject and highlight the following subjects:*
 
    - *Security properties of secure messaging protocols (and their history)*
@@ -147,7 +164,7 @@ The schedule will be:
    - *Metadata protection*
    - *Federation*
    - *Current status of the project*
- 
+
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
 Expect the missing abstracts for those talks to be published soon.
