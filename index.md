@@ -78,6 +78,8 @@ The schedule will be:
   not tell the whole story, but they do provide useful insights for protocol
   designers and software developers.*
 
+  This talk will not be recorded.
+
 * [Paul Rösler](http://roeslpa.de/), from the Ruhr University Bochum, with
   the talk:
 
