@@ -172,7 +172,6 @@ The schedule will be:
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
-Expect the missing abstracts for those talks to be published soon.
 
 **The list of confirmed participants on the panel for the 4th are:**
 
