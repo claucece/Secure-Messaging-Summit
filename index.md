@@ -1,7 +1,8 @@
 # Welcome to the Secure Messaging Summit!
 
 
-Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master)!
+Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master),
+[IACR](https://www.iacr.org/news/item/14519) and [EFF](https://www.eff.org/event/eff-2020-secure-messaging-summit)!
 
 This is a summit inspired by the [OTRv4 summit](https://petsymposium.org/2019/program.php)
 held last year. It is a summit where people from different places
