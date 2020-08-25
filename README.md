@@ -78,6 +78,8 @@ The schedule will be:
   not tell the whole story, but they do provide useful insights for protocol
   designers and software developers.*
 
+  This talk will not be recorded.
+
 * [Paul Rösler](http://roeslpa.de/), from the Ruhr University Bochum, with
   the talk:
 
@@ -154,9 +156,12 @@ The schedule will be:
 
   **Messaging Layer Security (MLS)**
 
-  *[MLS](https://messaginglayersecurity.rocks) is a security layer for encrypting messages in groups of size two to many. It is being built by the IETF MLS working group and designed to be efficient, practical and secure.*
+  *[MLS](https://messaginglayersecurity.rocks) is a security layer for
+  encrypting messages in groups of size two to many. It is being built by the
+  IETF MLS working group and designed to be efficient, practical and secure.*
 
   *This talk will give a short introduction to the subject and highlight the following subjects:*
+
 
    - *Security properties of secure messaging protocols (and their history)*
    - *Functional requirements for secure messaging*
