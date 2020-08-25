@@ -177,12 +177,12 @@ group messaging, mobile private contact discovery, and concurrent ratcheting.
 **The list of confirmed participants on the panel for the 4th are:**
 
 * Moderator: Iraklis Symeonidis from the University of Luxembourg
-* [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
-* [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
-* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Frontline
-* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
-* [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
-* [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from ARTICLE19
+* [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from [EFF](https://www.eff.org/)
+* [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from [EFF](https://www.eff.org/)
+* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from [Keyboard Frontline](https://twitter.com/kbflf5)
+* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the [Tibetan Action Institute](https://tibetaction.net/)
+* [Carolina Botero](https://twitter.com/carobotero?lang=en) from [Fundacion Karisma](https://web.karisma.org.co/)
+* [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from [ARTICLE19](https://www.article19.org/)
 
 Expect the topics to be talked on the panel to be published soon. But, they will
 manly explore the challenges, threats and advantages that secure messaging
