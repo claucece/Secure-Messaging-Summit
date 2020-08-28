@@ -206,9 +206,12 @@ group messaging, mobile private contact discovery, and concurrent ratcheting.
 * [Carolina Botero](https://twitter.com/carobotero?lang=en) from [Fundacion Karisma](https://web.karisma.org.co/)
 * [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from [ARTICLE19](https://www.article19.org/)
 
-Expect the topics to be talked on the panel to be published soon. But, they will
-manly explore the challenges, threats and advantages that secure messaging
-faces on different regions of the world from a legal, political and even
+The topics the panel will touch upon are:
+The 'EARN IT' bill, the increase of surveillance with covid-19 pandemic over
+messaging applications, the monopoly of companies creating messaging applications,
+the Hong Kong security law, and more. We will explore the challenges, threats
+and advantages that secure messaging faces on different regions of the world
+(Hong Kong, Tibet, Latin America and US) from a legal, political and even
 sociological perspective.
 
 
