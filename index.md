@@ -32,12 +32,19 @@ The times, therefore, are:
 
 After each session, there will be a time for socializing, if wanted.
 
-The schedule will be:
+The schedule for the 3rd will be (the times are on EDT and CEST):
 
-| 3rd                             | 4th                                        |
-|---------------------------------|--------------------------------------------|
-| Talks from different speakers   | Panel around the legal/political aspects   |
-| Socializing time                | Socializing time                          |
+|EDT Time       |CEST Time       |Talks                                                                                                                |
+|---------------|---------------|---------------------------------------------------------------------------------------------------------------------|
+|8:45 - 9:00    |14:45 - 15:00  |Welcome!: Introduction and guidelines                                                                                |
+|9:00 - 9:45    |15:00 - 15:45  |'The Simulation Paradigm and Deniable Communications' by Rosario Gennaro                                             |
+|9:45 - 10:30   |15:45 - 16:30  |'Resolving Concurrency in Group Ratcheting Protocols' by Paul Rösler                                                 |
+|10:30 - 11:15  |16:30 - 17:15  |'Messaging Layer Security (MLS)' by Raphael Robert                                                                   |
+|11:15 - 12:00  |17:15 - 18:00  |'Mobile Private Contact Discovery' by Daniel Kales                                                                   |
+|12:00 - 12:45  |18:00 - 18:45  |'How to Avoid Invisible Salamanders: Cryptographic Tools for Moderation in Encrypted Messaging' by Thomas Ristenpart |
+|12:45 - 13:30  |18:45 - 19:30  |'What user studies tell us about secure messaging?' by Nikolas Unger                                                 |
+|13:30 - 14:15~ |19:30 - 20:15~ |Socializing time                                                                                                     |
+
 
 ## Speakers
 
