@@ -27,12 +27,12 @@ places.
 
 The times, therefore, are:
 
-* 3rd of September: from 8:45 NY time to ~14:15 NY time (from 14:45 CEST to ~20:15 CEST)
-* 4th of September: from 11:00 NY time to ~13:30 NY time (from 17:00 CEST to ~19:30 CEST)
+* 3rd of September: from 8:45 EDT time to ~14:15 EDT time (from 14:45 CEST to ~20:15 CEST)
+* 4th of September: from 11:00 EDT time to ~13:30 EDT time (from 17:00 CEST to ~19:30 CEST)
 
 After each session, there will be a time for socializing, if wanted.
 
-The schedule for the 3rd will be (the times are on EDT and CEST):
+**The schedule for the 3rd will be (the times are on EDT and CEST)**:
 
 |EDT Time       |CEST Time       |Talks                                                                                                                |
 |---------------|---------------|---------------------------------------------------------------------------------------------------------------------|
@@ -45,6 +45,15 @@ The schedule for the 3rd will be (the times are on EDT and CEST):
 |12:45 - 13:30  |18:45 - 19:30  |'What user studies tell us about secure messaging?' by Nikolas Unger                                                 |
 |13:30 - 14:15~ |19:30 - 20:15~ |Socializing time                                                                                                     |
 
+**The schedule for the 4th will be (the times are on EDT and CEST)**:
+
+|EDT Time        |CEST Time        |Activities                                    |
+|----------------|-----------------|----------------------------------------------|
+|11:00 - 11:30   |17:00 - 17:30    |Welcome!: Introduction and guidelines         |
+|11:30 - 12:20   |17:30 - 18:20    |Initial statement by panelists                |
+|12:20 - 13:10   |18:20 - 19:10    |Open discussion                               |
+|13:10 - 13:30   |19:10 - 19:30    |Open discussion with audience                 |
+|13:30 - 14:30~  |19:30 - 20:30~   |Socializing time                              |
 
 ## Speakers
 
