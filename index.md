@@ -133,6 +133,8 @@ After each session, there will be a time for socializing, if wanted.
   importantly for distributed messaging environments where concurrency is
   unavoidable.*
 
+  This talk will be recorded.
+
 * [Daniel Kales](https://www.iaik.tugraz.at/person/daniel-kales/), from the
   Technical University of Graz, with the talk:
 
@@ -147,6 +149,8 @@ After each session, there will be a time for socializing, if wanted.
   Intersection) to this problem.  We discuss some of the problems (performance-related
   and others) of using such protocols as a solution for Mobile Contact Discovery,
   in large-scale messaging services with potentially hundreds of millions of users.*
+
+  This talk will be recorded.
 
 * [Thomas Ristenpart](https://rist.tech.cornell.edu/) from Cornell Tech
 
@@ -186,6 +190,8 @@ After each session, there will be a time for socializing, if wanted.
    - *Metadata protection*
    - *Federation*
    - *Current status of the project*
+
+  This talk will be recorded.
 
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
