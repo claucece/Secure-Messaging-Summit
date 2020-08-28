@@ -1,7 +1,8 @@
 # Welcome to the Secure Messaging Summit!
 
 
-Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master)!
+Find me in [github](https://github.com/claucece/Secure-Messaging-Summit/tree/master),
+[IACR](https://www.iacr.org/news/item/14519) and [EFF](https://www.eff.org/event/eff-2020-secure-messaging-summit)!
 
 This is a summit inspired by the [OTRv4 summit](https://petsymposium.org/2019/program.php)
 held last year. It is a summit where people from different places
@@ -26,17 +27,33 @@ places.
 
 The times, therefore, are:
 
-* 3rd of September: from 8:45 NY time to ~14:15 NY time (from 14:45 CEST to ~20:15 CEST)
-* 4th of September: from 11:00 NY time to ~13:30 NY time (from 17:00 CEST to ~19:30 CEST)
+* 3rd of September: from 8:45 EDT time to ~14:15 EDT time (from 14:45 CEST to ~20:15 CEST)
+* 4th of September: from 11:00 EDT time to ~13:30 EDT time (from 17:00 CEST to ~19:30 CEST)
 
 After each session, there will be a time for socializing, if wanted.
 
-The schedule will be:
+**The schedule for the 3rd will be (the times are on EDT and CEST)**:
 
-| 3rd                             | 4th                                        |
-|---------------------------------|--------------------------------------------|
-| Talks from different speakers   | Panel around the legal/political aspects   |
-| Socializing time                | Socializing time                          |
+|EDT Time       |CEST Time       |Talks                                                                                                                |
+|---------------|---------------|---------------------------------------------------------------------------------------------------------------------|
+|8:45 - 9:00    |14:45 - 15:00  |Welcome!: Introduction and guidelines                                                                                |
+|9:00 - 9:45    |15:00 - 15:45  |'The Simulation Paradigm and Deniable Communications' by Rosario Gennaro                                             |
+|9:45 - 10:30   |15:45 - 16:30  |'Resolving Concurrency in Group Ratcheting Protocols' by Paul Rösler                                                 |
+|10:30 - 11:15  |16:30 - 17:15  |'Messaging Layer Security (MLS)' by Raphael Robert                                                                   |
+|11:15 - 12:00  |17:15 - 18:00  |'Mobile Private Contact Discovery' by Daniel Kales                                                                   |
+|12:00 - 12:45  |18:00 - 18:45  |'How to Avoid Invisible Salamanders: Cryptographic Tools for Moderation in Encrypted Messaging' by Thomas Ristenpart |
+|12:45 - 13:30  |18:45 - 19:30  |'What user studies tell us about secure messaging?' by Nikolas Unger                                                 |
+|13:30 - 14:15~ |19:30 - 20:15~ |Socializing time                                                                                                     |
+
+**The schedule for the 4th will be (the times are on EDT and CEST)**:
+
+|EDT Time        |CEST Time        |Activities                                    |
+|----------------|-----------------|----------------------------------------------|
+|11:00 - 11:30   |17:00 - 17:30    |Welcome!: Introduction and guidelines         |
+|11:30 - 12:20   |17:30 - 18:20    |Initial statement by panelists                |
+|12:20 - 13:10   |18:20 - 19:10    |Open discussion                               |
+|13:10 - 13:30   |19:10 - 19:30    |Open discussion with audience                 |
+|13:30 - 14:30~  |19:30 - 20:30~   |Socializing time                              |
 
 ## Speakers
 
@@ -116,6 +133,8 @@ The schedule will be:
   importantly for distributed messaging environments where concurrency is
   unavoidable.*
 
+  This talk will be recorded.
+
 * [Daniel Kales](https://www.iaik.tugraz.at/person/daniel-kales/), from the
   Technical University of Graz, with the talk:
 
@@ -130,6 +149,8 @@ The schedule will be:
   Intersection) to this problem.  We discuss some of the problems (performance-related
   and others) of using such protocols as a solution for Mobile Contact Discovery,
   in large-scale messaging services with potentially hundreds of millions of users.*
+
+  This talk will be recorded.
 
 * [Thomas Ristenpart](https://rist.tech.cornell.edu/) from Cornell Tech
 
@@ -170,18 +191,20 @@ The schedule will be:
    - *Federation*
    - *Current status of the project*
 
+  This talk will be recorded.
+
 The topics that they will present vary from deniability, message franking,
 group messaging, mobile private contact discovery, and concurrent ratcheting.
 
 **The list of confirmed participants on the panel for the 4th are:**
 
 * Moderator: Iraklis Symeonidis from the University of Luxembourg
-* [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from EFF
-* [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from EFF
-* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from Keyboard Frontline
-* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the Tibetan Action Institute
-* [Carolina Botero](https://twitter.com/carobotero?lang=en) from Fundacion Karisma
-* [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from ARTICLE19
+* [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from [EFF](https://www.eff.org/)
+* [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from [EFF](https://www.eff.org/)
+* [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from [Keyboard Frontline](https://twitter.com/kbflf5)
+* [Lobsang Gyatso](https://tibetaction.net/profile/lobsang/) from the [Tibetan Action Institute](https://tibetaction.net/)
+* [Carolina Botero](https://twitter.com/carobotero?lang=en) from [Fundacion Karisma](https://web.karisma.org.co/)
+* [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from [ARTICLE19](https://www.article19.org/)
 
 Expect the topics to be talked on the panel to be published soon. But, they will
 manly explore the challenges, threats and advantages that secure messaging
