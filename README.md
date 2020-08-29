@@ -32,6 +32,8 @@ The times, therefore, are:
 
 After each session, there will be a time for socializing, if wanted.
 
+## Schedule
+
 **The schedule for the 3rd will be (the times are on EDT and CEST)**:
 
 |EDT Time       |CEST Time       |Talks                                                                                                                |
@@ -198,7 +200,7 @@ group messaging, mobile private contact discovery, and concurrent ratcheting.
 
 **The list of confirmed participants on the panel for the 4th are:**
 
-* Moderator: Iraklis Symeonidis from the University of Luxembourg
+* Moderator: Sofía Celi from Cloudflare
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from [EFF](https://www.eff.org/)
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from [EFF](https://www.eff.org/)
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from [Keyboard Frontline](https://twitter.com/kbflf5)
@@ -206,9 +208,12 @@ group messaging, mobile private contact discovery, and concurrent ratcheting.
 * [Carolina Botero](https://twitter.com/carobotero?lang=en) from [Fundacion Karisma](https://web.karisma.org.co/)
 * [Paulina Gutiérrez](https://indela.fund/en/paulina-gutierrez-2/) from [ARTICLE19](https://www.article19.org/)
 
-Expect the topics to be talked on the panel to be published soon. But, they will
-manly explore the challenges, threats and advantages that secure messaging
-faces on different regions of the world from a legal, political and even
+The topics the panel will touch upon are:
+The 'EARN IT' bill, the increase of surveillance with covid-19 pandemic over
+messaging applications, the monopoly of companies creating messaging applications,
+the Hong Kong security law, and more. We will explore the challenges, threats
+and advantages that secure messaging faces on different regions of the world
+(Hong Kong, Tibet, Latin America and US) from a legal, political and even
 sociological perspective.
 
 
