@@ -32,6 +32,8 @@ The times, therefore, are:
 
 After each session, there will be a time for socializing, if wanted.
 
+## Schedule
+
 **The schedule for the 3rd will be (the times are on EDT and CEST)**:
 
 |EDT Time       |CEST Time       |Talks                                                                                                                |
