@@ -200,7 +200,7 @@ group messaging, mobile private contact discovery, and concurrent ratcheting.
 
 **The list of confirmed participants on the panel for the 4th are:**
 
-* Moderator: Iraklis Symeonidis from the University of Luxembourg
+* Moderator: Sofía Celi from Cloudflare
 * [Danny O'Brien](https://www.eff.org/about/staff/danny-obrien-0) from [EFF](https://www.eff.org/)
 * [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy) from [EFF](https://www.eff.org/)
 * [Glacier Kwong](https://en.wikipedia.org/wiki/Glacier_Kwong) from [Keyboard Frontline](https://twitter.com/kbflf5)
