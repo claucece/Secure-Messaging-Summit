@@ -28,7 +28,7 @@ places.
 The times, therefore, are:
 
 * 3rd of September: from 8:45 EDT time to ~14:15 EDT time (from 14:45 CEST to ~20:15 CEST)
-* 4th of September: from 11:00 EDT time to ~13:30 EDT time (from 17:00 CEST to ~19:30 CEST)
+* 4th of September: from 11:00 EDT time to ~14:30 EDT time (from 17:00 CEST to ~20:30 CEST)
 
 After each session, there will be a time for socializing, if wanted.
 
