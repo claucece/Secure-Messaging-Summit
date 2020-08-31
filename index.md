@@ -216,6 +216,7 @@ and advantages that secure messaging faces on different regions of the world
 (Hong Kong, Tibet, Latin America and US) from a legal, political and even
 sociological perspective.
 
+The panel will be recorded.
 
 There are many great people in this area, and we're sorry we can't invite all of
 them. If this goes well, hopefully we'll have more of them in the future!
