@@ -175,6 +175,8 @@ After each session, there will be a time for socializing, if wanted.
   *This talk will cover joint work with Yevgeniy Dodis, Paul Grubbs, Julia Len,
   Jiahui Lu, Ian Miers, Nirvan Tyagi, and Joanne Woodage.*
 
+  This talk will be recorded.
+
 * [Raphael Robert](https://twitter.com/raphaelrobert) from Wire
 
   **Messaging Layer Security (MLS)**
