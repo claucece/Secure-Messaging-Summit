@@ -28,7 +28,7 @@ places.
 The times, therefore, are:
 
 * 3rd of September: from 8:45 EDT time to ~14:15 EDT time (from 14:45 CEST to ~20:15 CEST)
-* 4th of September: from 11:00 EDT time to ~13:30 EDT time (from 17:00 CEST to ~19:30 CEST)
+* 4th of September: from 11:00 EDT time to ~14:30 EDT time (from 17:00 CEST to ~20:30 CEST)
 
 After each session, there will be a time for socializing, if wanted.
 
@@ -175,6 +175,8 @@ After each session, there will be a time for socializing, if wanted.
   *This talk will cover joint work with Yevgeniy Dodis, Paul Grubbs, Julia Len,
   Jiahui Lu, Ian Miers, Nirvan Tyagi, and Joanne Woodage.*
 
+  This talk will be recorded.
+
 * [Raphael Robert](https://twitter.com/raphaelrobert) from Wire
 
   **Messaging Layer Security (MLS)**
@@ -216,6 +218,7 @@ and advantages that secure messaging faces on different regions of the world
 (Hong Kong, Tibet, Latin America and US) from a legal, political and even
 sociological perspective.
 
+The panel will be recorded.
 
 There are many great people in this area, and we're sorry we can't invite all of
 them. If this goes well, hopefully we'll have more of them in the future!
