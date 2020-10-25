@@ -12,7 +12,7 @@ being interested by it! Here you can find some resources of it.
 * For 'Mobile Private Contact Discovery' by Daniel Kales, the
   slides can be found [here]().
 * For 'What user studies tell us about secure messaging?' by Nikolas Unger, find
-  the handout [here]https://cs.uwaterloo.ca/~njunger/usability.pdf).
+  the handout [here](https://cs.uwaterloo.ca/~njunger/usability.pdf).
 
 ## Video recordings
 
