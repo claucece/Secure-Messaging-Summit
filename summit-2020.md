@@ -8,9 +8,9 @@ being interested by it! Here you can find some resources of it.
 ## Slides
 
 * For 'Resolving Concurrency in Group Ratcheting Protocols' by Paul Rösler, the
-  slides can be found [here]().
+  slides can be found [here](https://github.com/claucece/Secure-Messaging-Summit/blob/gh-pages/slides/200903_groupCosts_messagingSummit-1603666408099.pdf).
 * For 'Mobile Private Contact Discovery' by Daniel Kales, the
-  slides can be found [here]().
+  slides can be found [here](https://github.com/claucece/Secure-Messaging-Summit/blob/gh-pages/slides/contact_discovery.pdf).
 * For 'What user studies tell us about secure messaging?' by Nikolas Unger, find
   the handout [here](https://cs.uwaterloo.ca/~njunger/usability.pdf).
 
