@@ -16,6 +16,17 @@ being interested by it! Here you can find some resources of it.
 
 ## Video recordings
 
+The Secure Messaging Summit Chanel can be found [here](https://www.youtube.com/channel/UCTn4fr1ZfKYXzqy9GIuLmAw?view_as=subscriber).
+
+Recording for the talks and panel:
+
+* 'The Simulation Paradigm and Deniable Communications' by Rosario Gennaro: recording [here](https://www.youtube.com/watch?v=PTnEPOm4hg4)
+* 'Resolving Concurrency in Group Ratcheting Protocols' by Paul Rösler: recording [here](https://www.youtube.com/watch?v=A5ZTAfpxJS0&t=31s)
+* 'Messaging Layer Security (MLS)' by Raphael Robert: recording [here](https://www.youtube.com/watch?v=1_athhQBHhg&t=11s)
+* 'Mobile Private Contact Discovery' by Daniel Kales: recording [here](https://www.youtube.com/watch?v=-pwZTaYNEqk&t=2s)
+* 'How to Avoid Invisible Salamanders: Cryptographic Tools for Moderation in Encrypted Messaging' by Thomas Ristenpart: recording [here](https://www.youtube.com/watch?v=fN8E9fwj7cE)
+* Panel around secure messaging: recoding [here](https://www.youtube.com/watch?v=fN8E9fwj7cE)
+
 
 ## Additional resources
 
