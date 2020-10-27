@@ -54,3 +54,11 @@ Recording for the talks and panel:
 * [Turtles, Locks, and Bathrooms: Understanding Mental Models of Privacy Through Illustration](https://www.researchgate.net/publication/327994051_Turtles_Locks_and_Bathrooms_Understanding_Mental_Models_of_Privacy_Through_Illustration)
   by Maggie Oates, Yama Ahmadullah, Abigail Marsh and Chelse Swoopes.
 
+### Secure messaging panel links
+
+* [EFF predictions about attempts to undermine e2e encryption in the last four years](https://www.eff.org/deeplinks/2017/06/five-eyes-unlimited)
+*  Details of “The Ghost” – a proposed method to sabotage E2E by mandating
+   deceitful user interfaces. Find it [here](https://www.lawfareblog.com/open-letter-gchq-threats-posed-ghost-proposal).
+* The EU’s new stance on the importance for companies to monitor end-to-end
+  encrypted electronic communications to detect and report child sexual abuse.
+  Find it [here](https://ec.europa.eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/european-agenda-security/20200724_com-2020-607-commission-communication_en.pdf)
