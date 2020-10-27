@@ -62,3 +62,7 @@ Recording for the talks and panel:
 * The EU’s new stance on the importance for companies to monitor end-to-end
   encrypted electronic communications to detect and report child sexual abuse.
   Find it [here](https://ec.europa.eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/european-agenda-security/20200724_com-2020-607-commission-communication_en.pdf)
+
+## Sponsors
+
+The event was nicely sponsored by [NLnet](https://nlnet.nl/).
