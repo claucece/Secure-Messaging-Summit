@@ -25,7 +25,7 @@ Recording for the talks and panel:
 * 'Messaging Layer Security (MLS)' by Raphael Robert: recording [here](https://www.youtube.com/watch?v=1_athhQBHhg&t=11s).
 * 'Mobile Private Contact Discovery' by Daniel Kales: recording [here](https://www.youtube.com/watch?v=-pwZTaYNEqk&t=2s).
 * 'How to Avoid Invisible Salamanders: Cryptographic Tools for Moderation in Encrypted Messaging' by Thomas Ristenpart: recording [here](https://www.youtube.com/watch?v=fN8E9fwj7cE).
-* Panel around secure messaging: recording [here](https://www.youtube.com/watch?v=fN8E9fwj7cE).
+* Panel around secure messaging: recording [here](https://www.youtube.com/watch?v=pCHTq26f47Y).
 
 
 ## Additional resources
